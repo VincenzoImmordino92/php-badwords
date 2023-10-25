@@ -1,8 +1,5 @@
 <?php
 
-var_dump($_GET);
-
-$_GET['paragrafo'];
 
 echo $paragrafo = $_GET['paragrafo'];
 
